@@ -14,8 +14,8 @@
 ;; See the License for the specific language governing permissions and
 ;; limitations under the License.
 ;;
-(define name "scribble-msu-thesis")
+(define name "scribble-withesis")
 (define version "1.0")
 (define deps '("base" "scribble-text-lib"))
 (define build-deps '("scribble-lib" "racket-doc" "scribble-doc"))
-(define scribblings '(("msu-thesis.scrbl" () ("MSU Thesis Scribble #lang"))))
+(define scribblings '(("withesis.scrbl" () ("UW-Madison Thesis Scribble #lang"))))
